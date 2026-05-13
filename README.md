@@ -7,10 +7,10 @@ Một ứng dụng Quản lý công việc (Todo List) được xây dựng hoà
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/b5517582-9530-40c1-9169-46219666c524" width="220" title="Light Mode">
-<img src="https://github.com/user-attachments/assets/e496c35f-e195-437a-a544-30c21841fe8e" width="220" title="Dark Mode">
-<img src="https://github.com/user-attachments/assets/929da23c-1f87-4d9e-b424-3cdb4ce81b56" width="220" title="Delete Todo">
-<img src="https://github.com/user-attachments/assets/a752d0f1-b34d-4a74-bc6f-5dc60cb12a44" width="220" title="Empty State">
+<img src="https://github.com/user-attachments/assets/b5517582-9530-40c1-9169-46219666c524" width="210" title="Light Mode">
+<img src="https://github.com/user-attachments/assets/e496c35f-e195-437a-a544-30c21841fe8e" width="210" title="Dark Mode">
+<img src="https://github.com/user-attachments/assets/929da23c-1f87-4d9e-b424-3cdb4ce81b56" width="210" title="Delete Todo">
+<img src="https://github.com/user-attachments/assets/a752d0f1-b34d-4a74-bc6f-5dc60cb12a44" width="210" title="Empty State">
 ---
 
 ## 🎯 Tính năng nổi bật (Features)
