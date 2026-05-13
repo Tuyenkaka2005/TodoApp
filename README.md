@@ -1,3 +1,7 @@
+<img width="1290" height="2796" alt="icon-no-task" src="https://github.com/user-attachments/assets/a752d0f1-b34d-4a74-bc6f-5dc60cb12a44" />
+<img width="1290" height="2796" alt="bright-mode" src="https://github.com/user-attachments/assets/b5517582-9530-40c1-9169-46219666c524" />
+<img width="1290" height="2796" alt="dark-mode" src="https://github.com/user-attachments/assets/e496c35f-e195-437a-a544-30c21841fe8e" />
+<img width="1290" height="2796" alt="todo-delete" src="https://github.com/user-attachments/assets/929da23c-1f87-4d9e-b424-3cdb4ce81b56" />
 # 📝 TodoApp — SwiftUI Clean Architecture
 
 Một ứng dụng Quản lý công việc (Todo List) hiện đại được xây dựng hoàn toàn bằng **SwiftUI**, tuân thủ nghiêm ngặt các tiêu chuẩn Clean Code, áp dụng triệt để việc phân tách Component và tối ưu hóa luồng dữ liệu (State Management).
